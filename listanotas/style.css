@@ -16,10 +16,6 @@ body {
     flex-direction: column;
     align-items: center;
     position: relative;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    align-items: center;
 }
 
 .header, .footer {

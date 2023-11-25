@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/otica/static/css/main.78f2d6f9.css",
-    "main.js": "/otica/static/js/main.e2465b94.js",
-    "static/js/787.a42bc1d1.chunk.js": "/otica/static/js/787.a42bc1d1.chunk.js",
-    "static/media/capa.png": "/otica/static/media/capa.44a9e1db5439c08db3da.png",
-    "index.html": "/otica/index.html",
-    "main.78f2d6f9.css.map": "/otica/static/css/main.78f2d6f9.css.map",
-    "main.e2465b94.js.map": "/otica/static/js/main.e2465b94.js.map",
-    "787.a42bc1d1.chunk.js.map": "/otica/static/js/787.a42bc1d1.chunk.js.map"
+    "main.css": "/luiz1456/otica.git/static/css/main.b64c2bc4.css",
+    "main.js": "/luiz1456/otica.git/static/js/main.b4fcd7bb.js",
+    "static/js/787.a42bc1d1.chunk.js": "/luiz1456/otica.git/static/js/787.a42bc1d1.chunk.js",
+    "static/media/capa.png": "/luiz1456/otica.git/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/luiz1456/otica.git/index.html",
+    "main.b64c2bc4.css.map": "/luiz1456/otica.git/static/css/main.b64c2bc4.css.map",
+    "main.b4fcd7bb.js.map": "/luiz1456/otica.git/static/js/main.b4fcd7bb.js.map",
+    "787.a42bc1d1.chunk.js.map": "/luiz1456/otica.git/static/js/787.a42bc1d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78f2d6f9.css",
-    "static/js/main.e2465b94.js"
+    "static/css/main.b64c2bc4.css",
+    "static/js/main.b4fcd7bb.js"
   ]
 }

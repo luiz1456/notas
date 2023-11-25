@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/otica/static/css/main.78f2d6f9.css",
+    "main.js": "/otica/static/js/main.e2465b94.js",
+    "static/js/787.a42bc1d1.chunk.js": "/otica/static/js/787.a42bc1d1.chunk.js",
+    "static/media/capa.png": "/otica/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/otica/index.html",
+    "main.78f2d6f9.css.map": "/otica/static/css/main.78f2d6f9.css.map",
+    "main.e2465b94.js.map": "/otica/static/js/main.e2465b94.js.map",
+    "787.a42bc1d1.chunk.js.map": "/otica/static/js/787.a42bc1d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78f2d6f9.css",
+    "static/js/main.e2465b94.js"
+  ]
+}
